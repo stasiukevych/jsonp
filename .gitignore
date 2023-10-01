@@ -1,0 +1,17 @@
+# idea files
+.idea
+.idea/
+.idea/**
+
+# gradle files
+gradle
+gradle/
+gradle/**
+
+.gradle
+.gradle/
+.gradle/**
+
+build
+build/
+build/**

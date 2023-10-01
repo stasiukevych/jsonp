@@ -1,0 +1,8 @@
+{
+  "credit_card": {
+    "number": "1357",
+    "expiry_date": "10/13",
+    "control_number": "234",
+    "type": "Visa"
+  }
+}
